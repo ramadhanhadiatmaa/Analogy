@@ -1258,7 +1258,7 @@ END Footer Area
 .blog-single-tags ul li a {
     display: inline-block;
     padding: 9px 15px;
-    background: #f77842;
+    background: #FFD700;
     color: #fff;
     text-transform: uppercase;
     line-height: 14px;
@@ -1456,7 +1456,7 @@ END Footer Area
 }
 
 .leave-comment form input#comment-submit {
-    background: #f77842;
+    background: #FFD700;
     border: 1px solid transparent;
     text-transform: uppercase;
     font-size: 12px;
@@ -1480,7 +1480,7 @@ END Footer Area
 .crumbs-area {
     height: 500px;
     width: 100%;
-    background: url(../img/bg/crumbs-bg.jpg.) center center/cover no-repeat;
+    background: url(https://cdn.statically.io/img/i.imgur.com/YVyTfoZ.jpg) center center/cover no-repeat;
     position: relative;
     display: flex;
     align-items: center;
@@ -1770,7 +1770,7 @@ END Blog Standard
     display: inline-block;
     font-size: 10px;
     text-transform: uppercase;
-    background: #f77842;
+    background: #FFD700;
     color: #fff;
     padding: 7px 13px;
     margin-bottom: 5px;
