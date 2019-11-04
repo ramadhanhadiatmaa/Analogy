@@ -1341,7 +1341,7 @@ END Footer Area
 }
 
 .meta-data p.category span {
-    color: #ef4836;
+    color: #FFD700;
 }
 
 .comment-content {}
@@ -1633,7 +1633,7 @@ END Blog Standard
 }
 
 .widget-search form input:focus {
-    border-color: #ff6719;
+    border-color: #FFD700;
 }
 
 .widget-search form input:focus~button {
@@ -1647,7 +1647,7 @@ END Blog Standard
     top: 0;
     height: 45px;
     width: 45px;
-    background: #ff6719;
+    background: #FFD700;
     border: 1px solid transparent;
     color: #ffffff;
     border-radius: 2px;
